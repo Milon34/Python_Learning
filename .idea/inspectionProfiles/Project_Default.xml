@@ -1,0 +1,19 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="Game.car.*" />
+          <option value="testFinal.ontimer" />
+          <option value="testFinal.hideturtle" />
+          <option value="testFinal.tracer" />
+          <option value="testFinal.onkey" />
+          <option value="speech_recognition" />
+          <option value="sr" />
+          <option value="pyaudio" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
